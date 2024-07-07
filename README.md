@@ -13,6 +13,7 @@ Welcome! This project is part of the ISDS 574 – Data Mining for Business Appli
 - [Limitations and Future Work](#limitations-and-future-work)
 - [Acknowledgments](#acknowledgments)
 - [Setup](#setup)
+- [Screenshots of Visualizations/Results](#screenshots-of-visualizationsresults)
 
 ## Project Overview
 
@@ -132,3 +133,5 @@ To set up the project locally, follow these steps:
      Open Team06_FINAL_CODE.R in your R environment (e.g., RStudio).
    - Execute the Script:
      Run the script to perform the data analysis and modeling.
+
+## Screenshots of Visualizations/Results

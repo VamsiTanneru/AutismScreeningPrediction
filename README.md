@@ -111,8 +111,6 @@ Models were evaluated based on:
 
 To set up the project locally, follow these steps:
 
-### R Environment Setup:
-
 1. **Ensure R is Installed:**
    - Download and install R from the official [CRAN](https://cran.r-project.org/) website.
 
@@ -133,6 +131,7 @@ To set up the project locally, follow these steps:
      Open Team06_FINAL_CODE.R in your R environment (e.g., RStudio).
    - Execute the Script:
      Run the script to perform the data analysis and modeling.
+
 
 ## Screenshots of Visualizations/Results
 ![](screenshots/Picture1.png)
